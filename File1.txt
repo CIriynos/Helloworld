@@ -1,6 +1,8 @@
 Git is a distributed version control system. (From branch2)
 Git is free software distributed under the GPL.
-Git has a mutable index called stage. (From master)
-Test for "No Fast Forward" mode.
-Now a bug is fixed!
-hahahahahaha
+Git has a mutable index called stage.
+I am learning Git now.
+But it is easy!
+
+I want to f**k you!
+>>>>>>> 75f5e6f19cb17b984e34440dc52b1a6c13587b3d
