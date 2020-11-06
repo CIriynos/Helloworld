@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage. (From master)
 Test for "No Fast Forward" mode.
 Now a bug is fixed!
+hahahahahaha
