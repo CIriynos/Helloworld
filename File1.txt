@@ -1,6 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a jjjjjjjjjk index called stage.
+Git has a mutable index called stage.
+>>>>>>> b1
 I am learning Git now.
 But it is easy!
 <<<<<<< HEAD
@@ -10,3 +11,5 @@ This is from the branch "B1".
 Ohhh git is so convenient.
 This is from the branch "B1".
 >>>>>>> b1
+
+adddddddddddddddddddddddddddddddd
