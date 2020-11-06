@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 I am learning Git now.
 But it is easy!
+This is from the branch "master".
 Ohhh git is so convenient.
